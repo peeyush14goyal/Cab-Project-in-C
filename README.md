@@ -14,7 +14,7 @@ Till now it all seems to be like a Competitive Programming problem. Lets's now m
   </p>
   
   <h2><b>Real life scenarios</b></h2>
-  <ol><li>Car may get broken< = <b>Solution</b> => At start of each day we are asked to enter the times at which car will get broken and then algorithm will run again to allot the cars to go/li></ol>
+  <ol><li>Car may get broken< = <b>Solution</b> => At start of each day we are asked to enter the times at which car will get broken and then algorithm will run again to allot the cars to go</li></ol>
   
   <h2>Assumptions</h2>
   <ol><li>Guest are arriving from one place only</li>
